@@ -1,0 +1,54 @@
+**Deovrat Netam**
+
+**Contact Information**
+
+* Phone: +91-8770438596
+* Email: deovrat19101@iiitnr.edu.in
+* GitHub: https://github.com/deovrat-n
+* LinkedIn: https://www.linkedin.com/in/deovrat-netam-8a876420b/
+
+**Education**
+
+| Degree/Certificate | Institute/Board | CGPA/Percentage | Year |
+|---|---|---|---|
+| B.Tech | International Institute of Information Technology, Naya Raipur (IIIT-NR) | 7.5 | 2019-Present |
+| Senior Secondary | CBSE | 71.4% | 2019 |
+| Secondary | CBSE | 10 | 2017 |
+
+**Technical Projects**
+
+* **Stock Price Prediction:**
+    * Utilized the LSTM (Long Short-Term Memory) Model to forecast stock prices.
+    * Achieved high accuracy in predicting Infosys stock prices.
+
+* **Educational Game:**
+    * Developed a game using Unity Engine, Visual Studio, C#, and object-oriented programming to teach Real Number concepts.
+
+* **Text-based Adventure Game:**
+    * Created a game in C# where players navigate a dungeon to find the exit.
+    * Used Unity Engine, Visual Studio, C#, object-oriented programming, and Data Structures.
+
+* **Text Summarizer:**
+    * Developed a text summary using an encoder-decoder architecture (LSTM).
+    * Implemented an attention method to weigh and remember information from extended sequences.
+
+**Positions of Responsibility**
+
+* Led a team of four in the Game Development Challenge organized by CDAC-Mumbai and IEEE Bombay Section.
+* Core Member of the Football Club of IIIT Naya Raipur.
+* Represented IIIT Naya Raipur at Vriddhi'19 - NIT Rourkela Sports Fest.
+
+**Achievements**
+
+* First Consolation Prize in the EG-100 Educational Game Challenge organized by CDAC-Mumbai and IEEE Bombay Section.
+
+**Technical Skills**
+
+* **Languages:** HTML, CSS, C, C++, Python, Java, C#, SQL
+* **Frameworks and Libraries:** Visual Studio; Microsoft SQL Server; Scikit-learn; PyTorch
+
+**Soft Skills**
+
+* Leadership
+* Creativity
+* Teamwork

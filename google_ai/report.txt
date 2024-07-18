@@ -1,0 +1,42 @@
+DEOVRAT NETAM
+Enrollment No.: 191010214 B.Tech – Electronics and Communication
+Engineering
+International Institute of Information Technology, Naya Raipur (IIIT-NR)	Phone: +91-8770438596
+deovrat19101@iiitnr.edu.in https://github.com/deovrat-n https://www.linkedin.com/i n/deovrat-netam-
+8a876420b/
+  EDUCATION				
+Degree/Certificate	Institute/Board	CGPA/Percentage	Year
+B.Tech	IIIT Naya Raipur	7.5	2019-Present
+Senior Secondary	CBSE	71.4%	2019
+Secondary	CBSE	10	2017
+  Technical Projects				
+Stock Price Prediction
+We used the LSTM (Long Short-Term Memory) Model to forecast stock prices in this research.
+We were able to anticipate the stock price of Infosys with a high degree of accuracy in this research.
+
+	Educational game
+Aim of the project to teach Real Number through Game.
+Usage of Unity Engine, Visual Studio, C#, object-oriented programming.
+
+	Text based Adventure Game
+Created a text-based adventure game in C# in which player has to find the exit from the dungeon. Usage of Unity Engine, Visual Studio, C#, object-oriented programming, Data Structures.
+
+	Text Summarizer
+Create a text summary using an encoder-decoder architecture (using LSTM).
+I employed an attention method to store/remember information from extended sequences, which assigns weightage to each input at time t.
+
+  POSITIONS OF RESPONSIBILITY	
+	Led a team of four in Game Development Challenge organized by CDAC-Mumbai and IEEE Bombay Section
+	Core Member of Football club of IIIT Naya Raipur
+	Represented IIIT Naya Raipur at Vriddhi’19 – NIT Rourkela Sports Fest
+  ACHIEVEMENTS				
+	First Consolation Prize in in EG-100 Educational Game Challenge organized by CDAC-Mumbai and
+IEEE Bombay Section
+   TECHNICAL SKILLS				
+	Languages: HTML,CSS,C,C++,Python,Java,C#,SQL
+	Frameworks and Libraries: Visual Studio; Microsoft SQL Server; Scikit-learn; PyTorch.
+   SOFT SKILLS				
+	Leadership
+	Creative
+	Team Work			
+
